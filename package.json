@@ -1,0 +1,23 @@
+{
+  "name": "cotcypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "open": "$(npm bin)/cypress open",
+    "test": "$(npm bin)/cypress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paresh5olanki/cotCypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paresh5olanki/cotCypress/issues"
+  },
+  "homepage": "https://github.com/Paresh5olanki/cotCypress#readme",
+  "dependencies": {
+    "cypress": "^6.8.0"
+  }
+}
